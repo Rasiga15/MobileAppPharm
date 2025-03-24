@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Pharm",
+    "slug": "pharm",  
+    "extra": {
+      "eas": {
+        "projectId": "197c3612-8b76-403a-92ee-1f303c2bba58"
+      }
+    },
+    "android": {
+      "package": "com.rasiga_15.pharm"
+    },
+    "icon": "./assets/images/pharm.png"
+  }
+}
